@@ -1,0 +1,1 @@
+#This is a one page amazon clone made using technologies HTML and CSS only. 
